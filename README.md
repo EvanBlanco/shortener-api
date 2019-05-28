@@ -1,2 +1,2 @@
 # Shortener-api
-URL Shortener with Rails and Postgresql
+URL Shortener with Rails and MongoDB
