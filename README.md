@@ -10,8 +10,11 @@ Things you may want to cover:
 * mongoDb is configured as the Database
 
 
-* Deployment instructions
-	
+* Deployment
 
+ Link from Heroku:	
+ https://shortener-api-evan.herokuapp.com/
+ Link from Github:
+ https://github.com/EvanBlanco/shortener-api
 
 * ...
